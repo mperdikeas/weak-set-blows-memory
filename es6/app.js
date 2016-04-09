@@ -1,4 +1,6 @@
     'use strict';
+
+    require('babel-polyfill');
     
     const s = new WeakSet();
     
